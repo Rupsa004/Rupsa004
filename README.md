@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupsa004&label=Profile%20views&color=0e75b6&style=flat" alt="rupsa004" /> </p>
 
-. I'm interested Sketching and singing
-.Fun fact: I am selectively extrovert
+. 😌I'm interested Sketching and singing
+
+.👀Fun fact: I am selectively extrovert
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
