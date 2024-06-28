@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Java Script
 - 🤔 I’m interested in Sketching & Singing 
 - 💬 Ask me about whatever comes to your mind
-- 📫 How to reach me: DM me on instagram '_r_a_ii_'
+- 📫 How to reach me: DM me on instagram '_r_a_ii_ '
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a selectively extrovert
 
