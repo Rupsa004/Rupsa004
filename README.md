@@ -11,5 +11,5 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about whatever comes to your mind
 - 📫 How to reach me: DM me on instagram '_r_a_ii_ '
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a selectively extrovert
+- 👀 Fun fact: I am a selectively extrovert
 
