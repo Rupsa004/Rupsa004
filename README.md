@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupsa Adhikary</h1>
 <h3 align ="center">A CSE student from India</h3>
 
+< img align="right" alt="gif" width="300" src ="https://images.app.goo.gl/wLEd9hDGk2nAdeYk8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupsa004&label=Profile%20views&color=0e75b6&style=flat" alt="rupsa004" /> </p>
 
 . 😌I'm interested Sketching and singing
