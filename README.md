@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupsa004&label=Profile%20views&color=0e75b6&style=flat" alt="rupsa004" /> </p>
 
 . 😌I'm interested Sketching and singing
-
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 .👀Fun fact: I am selectively extrovert
 
 <h3 align="left">Connect with me:</h3>
