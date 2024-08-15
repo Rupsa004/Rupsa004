@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupsa004&label=Profile%20views&color=0e75b6&style=flat" alt="rupsa004" /> </p>
 
- <li>.😌I'm interested Sketching and singing</li>
- <li>.👀Fun fact: I am selectively extrovert</li>
+ <li>😌I'm interested Sketching and singing</li>
+ <li>👀Fun fact: I am selectively extrovert</li>
  <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
