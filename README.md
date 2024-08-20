@@ -26,4 +26,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupsa004&show_icons=true&locale=en&layout=compact" alt="rupsa004" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupsa004&show_icons=true&locale=en" alt="rupsa004" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupsa004&" alt="rupsa004" /></p>
